@@ -61,6 +61,8 @@ The system provides a simple and intuitive interface for hotel staff to perform 
 
 - Java Swing / AWT (for GUI)
 
+- SQL
+
 - MySQL (Database)
 
 - JDBC (Java Database Connectivity)
