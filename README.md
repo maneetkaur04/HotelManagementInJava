@@ -105,12 +105,13 @@ Password hashing for secure authentication
 
 This project demonstrates:
 
-- Java GUI development
-- Event-driven programming
-- OOP principles (Encapsulation, Abstraction)
-- Basic CRUD operations
-
-Application structuring
+- Java Swing GUI Development
+- JDBC Connectivity
+- CRUD Operations
+- SQL Queries
+- Database Design
+- Object-Oriented Programming
+- Basic Software Architecture
 
 👩‍💻 Author
 
